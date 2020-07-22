@@ -1,0 +1,16 @@
+/* div com tudo*/
+#Dleft {
+    float: left;
+}
+/* botao*/
+#bnt{
+    margin: 10px;
+}
+
+/*canvas style*/
+.style {
+    border: solid 2px #ff0000;
+    margin-left: 30px;
+    width: 500px;
+    height: 400px;
+}
